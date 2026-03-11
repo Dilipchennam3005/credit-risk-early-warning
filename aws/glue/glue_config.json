@@ -1,0 +1,11 @@
+{
+  "job_name": "meridian-loan-data-transform",
+  "role_name": "MeridianGlueServiceRole",
+  "role_arn": "arn:aws:iam::354561615261:role/MeridianGlueServiceRole",
+  "bucket": "meridian-credit-risk-354561615261",
+  "region": "us-west-2",
+  "database": "meridian_credit_risk",
+  "source": "s3://meridian-credit-risk-354561615261/raw/loans/",
+  "target": "s3://meridian-credit-risk-354561615261/processed/loans_clean/",
+  "glue_console": "https://us-west-2.console.aws.amazon.com/glue/home?region=us-west-2"
+}

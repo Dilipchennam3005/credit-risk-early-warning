@@ -1,0 +1,11 @@
+{
+  "bucket_name": "meridian-credit-risk-354561615261",
+  "region": "us-west-2",
+  "account_id": "354561615261",
+  "paths": {
+    "raw": "s3://meridian-credit-risk-354561615261/raw/loans/",
+    "processed": "s3://meridian-credit-risk-354561615261/processed/loans_clean/",
+    "scripts": "s3://meridian-credit-risk-354561615261/scripts/",
+    "logs": "s3://meridian-credit-risk-354561615261/logs/glue/"
+  }
+}
