@@ -239,4 +239,4 @@ python aws/lambda/deploy_lambda.py
 
 ## Author
 
-**Dilip Chennam** | Data Analyst | [GitHub](https://github.com/Dilipchennam3005)
+**Dilip Chennam** | [GitHub](https://github.com/Dilipchennam3005)
